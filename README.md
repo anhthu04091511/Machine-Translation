@@ -12,11 +12,7 @@ Trong phần này, mình sử dụng các kiến trúc mô hình khác nhau cho 
 ## Link pre-trained
 https://drive.google.com/drive/folders/1SrrA67H8Ff8ePPtj4lUloIpNx_mSulwO?usp=sharing
 ## Evaluation
-- Biểu đồ Loss
-<img src='img/loss.png'>
-- Bảng đánh giá theo thời gian train và test
-<img src='img/time_train, time_test.png'>
-- Bảng đánh giá theo blue_score
-<img src='img/blue_score.png'>
-- Demo
-<img src='img/demo.PNG'>
+- Biểu đồ Loss  <br><img src='img/loss.png'>
+- Bảng đánh giá theo thời gian train và test  <br><img src='img/time_train, time_test.png'>
+- Bảng đánh giá theo blue_score  <br><img src='img/blue_score.png'>
+- Demo  <br><img src='img/demo.PNG'>
